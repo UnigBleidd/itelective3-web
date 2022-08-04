@@ -23,7 +23,7 @@ A system that would help manage the assessments of students within the Ateneo De
 <br>
 
 ## Powered by: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Logo" width="30"> |  Laravel
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Logo" width="30"> |  <h6>Laravel</h6>
 
 
 <img src="https://drawsql.app/storage/templates/-5413ac879392bc6a3dd16003603e60d8ed1dfb42.png" alt="Logo" width="30"> |  Jetstream
