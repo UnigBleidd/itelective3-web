@@ -1,6 +1,6 @@
  <div align="center">
     <img src="https://i.ibb.co/mHw4WqW/download.png" alt="Logo" width="200">
-  <h3 align="center"> Ateneo De Davao - School Of Education</h3>
+  <h1 align="center"> Ateneo De Davao - School Of Education</h1>
 </div>
 
 
