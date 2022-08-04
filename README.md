@@ -1,3 +1,12 @@
+ <header>
+    <div class="header-content">
+        <div class="header-content-inner">
+            <img src="img/blue.png"><h1>WELCOME</h1>
+
+            <p></p>
+          </div>
+ </header>
+
 <p align="center"><a target="_blank" rel="noopener noreferrer"><img width="200" src="https://i.ibb.co/mHw4WqW/download.png" alt="SOELogo"></a></p>
 
 #                                                              Ateneo De Davao - School Of Education
