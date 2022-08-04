@@ -23,8 +23,8 @@ A system that would help manage the assessments of students within the Ateneo De
 <br>
 
 ## Powered by: 
-* <h5> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Logo" width="30">  |  Laravel </h3>
-* <h5> <img src="https://drawsql.app/storage/templates/-5413ac879392bc6a3dd16003603e60d8ed1dfb42.png" alt="Logo" width="30">  |   Jetstream </h3>
-* <h5> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="Logo" width="30">  |   MySQL </h3>
+* <h4> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Logo" width="30">  |  Laravel </h4>
+* <h4> <img src="https://drawsql.app/storage/templates/-5413ac879392bc6a3dd16003603e60d8ed1dfb42.png" alt="Logo" width="30">  |   Jetstream </h4>
+* <h4> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="Logo" width="30">  |   MySQL </h4>
 
 
