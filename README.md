@@ -8,7 +8,7 @@
 
 ## Simple Student Assessment Management System
 
-A system that would help manage the assessments of students within the Ateneo De Davao - School Of Education. It helps manages the recording of grades for the teachers, provides the students the ability to view their respective grades and helps manages the creation, printing and distribution of report cards.
+A system that would help manage the assessments of students within the Ateneo De Davao - School Of Education. This system would help manage the recording of grades for the teachers, provides the students the ability to view their respective grades and helps manages the creation, printing and distribution of report cards.
 
 <br>
 
