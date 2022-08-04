@@ -4,17 +4,13 @@
 </div>
 
 <br>
-<br>
 
 
 ## Simple Student Assessment Management System
 
 A system that would help manage the assessments of students within the Ateneo De Davao - School Of Education.
 
-
-
-
-
+<br>
 
 ## Subsytems
 
@@ -24,8 +20,7 @@ A system that would help manage the assessments of students within the Ateneo De
 | Grade Viewing System           | System that allows teachers and students to view grades              |
 | Report Card System             | A system for the creation, distribution and printing of report cards |
 
-
-
+<br>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
