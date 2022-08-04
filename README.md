@@ -8,11 +8,8 @@
 
 ## Simple Student Assessment Management System
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+A system that would help manage assessments of students within the Ateneo De Davao - School Of Education 
 
-```bash
-pip install foobar
-```
 
 ## Usage
 
