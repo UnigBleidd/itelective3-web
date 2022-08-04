@@ -1,7 +1,7 @@
  <header>
     <div class="header-content">
         <div class="header-content-inner">
-            <img src="img/blue.png"><h1>WELCOME</h1>
+            <img src="https://i.ibb.co/mHw4WqW/download.png"><h1>WELCOME</h1>
 
             <p></p>
           </div>
