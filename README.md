@@ -18,7 +18,7 @@ A system that would help manage the assessments of students within the Ateneo De
 | ---------------------          | -------------------------------------------------------              |
 | Recording System               | System that helps teachers to record student grades efficiently      |
 | Grade Viewing System           | System that allows teachers and students to view grades              |
-| Report Card System             | A system for the creation, distribution and printing of report cards |
+| Report Card System             | System for the creation, distribution and printing of report cards   |
 
 <br>
 
