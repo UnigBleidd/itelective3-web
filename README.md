@@ -8,7 +8,7 @@
 
 ## Simple Student Assessment Management System
 
-A system that would help manage assessments of students within the Ateneo De Davao - School Of Education 
+A system that would help manage the assessments of students within the Ateneo De Davao - School Of Education. 
 
 
 ## Usage
