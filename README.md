@@ -17,17 +17,11 @@ A system that would help manage the assessments of students within the Ateneo De
 
 ## Subsytems
 
-| Project                        | Description                                                         |
-| ---------------------          | -------------------------------------------------------             |
-| Recording System               | A system to help teachers to record student grades efficiently      |
-| [vuex]                         | Large-scale state management                                        |
-| [vue-cli]                      | Project scaffolding                                                 |
-| [vue-loader]                   | Single File Component (`*.vue` file) loader for webpack             |
-| [vue-server-renderer]          | Server-side rendering support                                       |
-| [vue-class-component]          | TypeScript decorator for a class-based API                          |
-| [vue-rx]                       | RxJS integration                                                    |
-| [vue-devtools]                 | Browser DevTools extension                                          |
-
+| System                         | Description                                                          |
+| ---------------------          | -------------------------------------------------------              |
+| Recording System               | System that helps teachers to record student grades efficiently      |
+| Grade Viewing System           | System that allows teachers and students to view grades              |
+| Report Card System             | A system for the creation, distribution and printing of report cards |
 
 
 
