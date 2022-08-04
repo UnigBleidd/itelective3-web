@@ -23,5 +23,5 @@ A system that would help manage the assessments of students within the Ateneo De
 <br>
 
 ## Powered by: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Logo" width="50"> Laravel
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Logo" width="30"> Laravel
 
