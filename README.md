@@ -1,6 +1,6 @@
 <p align="left"><a target="_blank" rel="noopener noreferrer"><img width="200" src="https://i.ibb.co/mHw4WqW/download.png" alt="SOELogo"></a></p>
 
-# Foobar
+# Ateneo De Davao - School Of Education
 
 Foobar is a Python library for dealing with word pluralization.
 
@@ -32,5 +32,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
