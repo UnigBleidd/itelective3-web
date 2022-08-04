@@ -7,7 +7,7 @@
           </div>
  </header>
 
-<p align="center"><a target="_blank" rel="noopener noreferrer"><img width="200" src="https://i.ibb.co/mHw4WqW/download.png" alt="SOELogo"></a></p>
+<p align="center"><a target="_blank" rel="noopener noreferrer"><img width="200" src="https://i.ibb.co/mHw4WqW/download.png" alt="SOELogo"><h1>WELCOME</h1></a></p>
 
 #                                                              Ateneo De Davao - School Of Education
 
