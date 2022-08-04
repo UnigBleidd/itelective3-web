@@ -20,7 +20,6 @@ A system that would help manage the assessments of students within the Ateneo De
 | Grade Viewing System           | System that allows teachers and students to view grades              |
 | Report Card System             | System for the creation, distribution and printing of report cards   |
 
-<br>
 
 ## Frameworks: 
 * <h4> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Logo" width="30">  |  Laravel </h4>
