@@ -1,20 +1,6 @@
  <div align="center">
     <img src="https://i.ibb.co/mHw4WqW/download.png" alt="Logo" width="200">
-
   <h3 align="center"> Ateneo De Davao - School Of Education</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </div>
 
 <p align="center"><a target="_blank" rel="noopener noreferrer"><img width="200" src="https://i.ibb.co/mHw4WqW/download.png" alt="SOELogo"><h1>WELCOME</h1></a></p>
